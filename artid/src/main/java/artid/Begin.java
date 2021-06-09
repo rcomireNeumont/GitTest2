@@ -6,6 +6,9 @@ public class Begin {
 	//making a change to be checked in
 		
 		int x;
+		Double y;
+		String z;
+		
 
 	}
 
